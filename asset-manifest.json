@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/dear/static/css/main.50822541.css",
+    "main.js": "/dear/static/js/main.0b27dc60.js",
+    "static/media/laiza4.jpg": "/dear/static/media/laiza4.2b42b1aede71703ffe90.jpg",
+    "static/media/picture4.jpg": "/dear/static/media/picture4.350294afa7738747bd62.jpg",
+    "static/media/picture3.jpg": "/dear/static/media/picture3.3941252100914a42c023.jpg",
+    "static/media/picture1.jpg": "/dear/static/media/picture1.348e34426032aa2b3db6.jpg",
+    "index.html": "/dear/index.html",
+    "main.50822541.css.map": "/dear/static/css/main.50822541.css.map",
+    "main.0b27dc60.js.map": "/dear/static/js/main.0b27dc60.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50822541.css",
+    "static/js/main.0b27dc60.js"
+  ]
+}
